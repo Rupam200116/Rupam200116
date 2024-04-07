@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in ** WIPRO**
+ 🔭 I’m currently working at ** WIPRO**
  
  🌱 I’m currently learning **DevOps, AWS, Docker**
 
