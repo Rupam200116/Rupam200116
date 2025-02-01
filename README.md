@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at ** WIPRO**
  
- 🌱 I’m currently learning **DevOps, AWS, Docker**
+ 🌱 I’m currently working on **Terraform, Ansible, Kubernetes, Bitbucket**
 
 💬 Ask me about ** Cloud Computing & DevOps [here]( https://www.linkedin.com/in/rupamrakshit/)**
 
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,c,docker,mysql,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,docker,mysql,aws,gcp,azure,terraform,Ansible,BitBucket" />
     
 <br>
 </div>
