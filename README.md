@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,c,docker,mysql,aws,gcp,azure,terraform,Ansible,BitBucket" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,Ansible,BitBucket" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,docker,mysql,aws,gcp,azure,terraform" />
     
 <br>
 </div>
