@@ -1,12 +1,10 @@
-<!-- HEADER -->
-
 <h1 align="center">
   Hey, I'm Rupam Rakshit 👋
 </h1>
 
-<h3 align="center">
-  ☁️ DevOps Engineer | AWS & Azure | Terraform | Kubernetes | CI/CD
-</h3>
+<p align="center">
+  <strong>DevOps Engineer | Cloud | Infrastructure as Code | Kubernetes | CI/CD</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupamrakshit/">
@@ -26,14 +24,19 @@
 
 I'm a **Software Development Engineer in DevOps** focused on building reliable, scalable and automated cloud infrastructure.
 
-🔭 Currently working at **Wipro**  
-☁️ Working with **AWS & Azure**  
-🏗️ Building infrastructure using **Terraform / IaC**  
-⚙️ Automating deployments with **CI/CD**  
-🐳 Working with **Docker & Kubernetes**  
-🔧 Exploring **AI + Cloud + DevOps automation**
+🔭 Currently working at **Wipro**
 
-> "Automate everything that should be automated."
+☁️ Working with **AWS & Azure**
+
+🏗️ Building infrastructure using **Terraform / Infrastructure as Code**
+
+⚙️ Automating deployments with **CI/CD**
+
+🐳 Working with **Docker & Kubernetes**
+
+🔧 Exploring **AI + Cloud + DevOps Automation**
+
+🎯 Passionate about **Cloud Infrastructure, Platform Engineering and DevSecOps**
 
 ---
 
@@ -41,105 +44,62 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 
 ### ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
-### ⚙️ DevOps & Infrastructure
+### 🏗️ Infrastructure & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins,githubactions,git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,jenkins,githubactions,git" />
 </p>
 
-### 💻 Development
+### 💻 Programming & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,java,javascript,react,fastapi" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,java,javascript,react,fastapi" />
 </p>
 
-### 📊 Monitoring & Security
+### 📊 Monitoring
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🚀 **AI-Powered Cloud Infrastructure & DevOps Automation** | Generate Terraform infrastructure using natural language and automate provisioning through CI/CD |
-| ☁️ **Serverless API using AWS** | Serverless API built using AWS Lambda and API Gateway |
-| 🎧 **Spotify Infrastructure with Terraform** | Infrastructure automation using Terraform |
-| 🐳 **DevSecOps Kubernetes Project** | Docker + Kubernetes + Jenkins + SonarQube + Trivy + Prometheus + Grafana |
-| 🧠 **DSA Patterns** | DSA preparation repository covering 14 important patterns |
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupam200116&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam200116&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rupam200116&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
-## 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Rup_24/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/rupam112">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@rupamrakshit112">
-<img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📚 Currently Learning
+## ⚙️ DevOps Ecosystem
 
 ```text
-Cloud Architecture
-        ↓
-Infrastructure as Code
-        ↓
-Kubernetes & Platform Engineering
-        ↓
-DevSecOps
-        ↓
-AI + Cloud Automation
+☁️ Cloud
+├── AWS
+├── Azure
+└── GCP
+
+🏗️ Infrastructure as Code
+├── Terraform
+├── Terraform Enterprise
+└── Ansible
+
+🐳 Containers & Orchestration
+├── Docker
+├── Kubernetes
+├── Amazon EKS
+└── Helm
+
+🚀 CI/CD
+├── Jenkins
+├── GitHub Actions
+├── Bitbucket Pipelines
+├── Azure DevOps
+└── Argo CD
+
+🔐 Security & Quality
+├── SonarQube
+├── Trivy
+└── OWASP Dependency-Check
+
+📊 Monitoring
+├── Prometheus
+├── Grafana
+└── Dynatrace
