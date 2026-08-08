@@ -93,7 +93,7 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---
