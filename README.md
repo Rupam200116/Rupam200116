@@ -70,10 +70,20 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 ### 🐍 GitHub Contribution
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.gif"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ## ⚙️ DevOps Ecosystem
