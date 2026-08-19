@@ -88,36 +88,36 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 
 ## ⚙️ DevOps Ecosystem
 
-```text
-☁️ Cloud
-├── AWS
-├── Azure
-└── GCP
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=☁️+Cloud+→+🏗️+Infrastructure+→+🚀+CI%2FCD;🐳+Containers+→+☸️+Kubernetes+→+🔐+DevSecOps;📊+Observability+→+🤖+AI+→+⚡+Automation" />
+</p>
 
-🏗️ Infrastructure as Code
-├── Terraform
-├── Terraform Enterprise
-└── Ansible
+<p align="center">
+  ☁️ AWS · Azure · GCP
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🏗️ Terraform · Ansible
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🚀 Jenkins · GitHub Actions · ADO
+</p>
 
-🐳 Containers & Orchestration
-├── Docker
-├── Kubernetes
-├── Amazon EKS
-└── Helm
+<p align="center">
+  🐳 Docker · Kubernetes · EKS · Helm
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🔐 SonarQube · Trivy
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  📊 Prometheus · Grafana · Dynatrace
+</p>
 
-🚀 CI/CD
-├── Jenkins
-├── GitHub Actions
-├── Bitbucket Pipelines
-├── Azure DevOps
-└── Argo CD
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="80%">
+</p>
 
-🔐 Security & Quality
-├── SonarQube
-├── Trivy
-└── OWASP Dependency-Check
-
-📊 Monitoring
-├── Prometheus
-├── Grafana
-└── Dynatrace
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️%20Cloud-→-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏗️%20IaC-→-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚀%20CI%2FCD-→-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🐳%20Kubernetes-→-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔐%20Security-→-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📊%20Observability-→-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤖%20AI-→-black?style=flat-square"/>
+</p>
