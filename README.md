@@ -86,6 +86,10 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
   </picture>
 </p>
 
+**Certifications**
+
+<img width="945" height="284" alt="image" src="https://github.com/user-attachments/assets/9598cdff-791b-4126-91d0-cedd3eb9511d" />
+
 ---
 ### ⚙️ DevOps Ecosystem
 
