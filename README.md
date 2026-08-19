@@ -86,46 +86,13 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
   </picture>
 </p>
 
-## ⚙️ DevOps Ecosystem
+---
+### ⚙️ DevOps Ecosystem
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Initializing+DevOps+Environment...;Provisioning+Infrastructure...;Running+CI%2FCD+Pipelines...;Deploying+to+Kubernetes...;Scanning+for+Vulnerabilities...;Monitoring+Production...;🤖+Automation+%2B+AI+Enabled" />
+  <img
+    src="https://raw.githubusercontent.com/Rupam200116/Rupam200116/main/assets/devops-pipeline.svg"
+    alt="Animated DevOps Ecosystem"
+    width="900"
+  />
 </p>
-
-<br>
-
-<p align="center">
-
-╭──────────────────────────────────────────────────────────────╮ <br>
-│    ☁️ <b>CLOUD</b>    →   
-🏗️ <b>IaC</b>    →   
-🚀 <b>CI/CD</b>    →   
-🐳 <b>CONTAINERS</b>    →    │ <br>
-│    🔐 <b>DEVSECOPS</b>    →   
-📊 <b>OBSERVABILITY</b>    →   
-🤖 <b>AI AUTOMATION</b>    │ <br>
-╰──────────────────────────────────────────────────────────────╯
-
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,helm,jenkins,githubactions,git,python,bash" />
-</p>
-
-<p align="center">
-  <code>● AWS</code>
-  <code>● Azure</code>
-  <code>● GCP</code>
-  <code>● Terraform</code>
-  <code>● Ansible</code>
-  <code>● Docker</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,sonarqube,githubactions,fastapi" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B61FF&height=80&section=footer" width="100%"/>
-</p>
-
