@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rupam200116.Rupam200116" />
 <h1 align="center">
   Hey, I'm Rupam Rakshit 👋
 </h1>
