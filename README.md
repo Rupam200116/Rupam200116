@@ -35,7 +35,7 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 
 🐳 Working with **Docker & Kubernetes**
 
-🔧 Exploring **AI + Cloud + DevOps Automation**
+🔧 Exploring **DSA + AI + Cloud + DevOps Automation**
 
 🎯 Passionate about **Cloud Infrastructure, Platform Engineering and DevSecOps**
 
