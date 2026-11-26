@@ -118,3 +118,33 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam200116&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%">
 </div>
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupamrakshit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rupam200116">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Rup_24/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building scalable solutions, one deployment at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rupam200116&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Rupam200116?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rupam200116?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+
