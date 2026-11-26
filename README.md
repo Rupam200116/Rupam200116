@@ -141,10 +141,11 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rupam200116&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Rupam200116.Rupam200116" alt="Profile Views" />
   <a href="https://github.com/Rupam200116?tab=followers">
     <img src="https://img.shields.io/github/followers/Rupam200116?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
 
 
