@@ -102,3 +102,19 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 ### Certifications
 
 <img width="945" height="284" alt="image" src="https://github.com/user-attachments/assets/9598cdff-791b-4126-91d0-cedd3eb9511d" />
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupam200116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam200116&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+---
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam200116&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%">
+</div>
+
