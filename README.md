@@ -7,18 +7,6 @@
   <strong>DevOps Engineer | Cloud | Infrastructure as Code | Kubernetes | CI/CD</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rupamrakshit/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rupam200116">
-    <img src="https://img.shields.io/badge/GitHub-Rupam200116-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Rup_24/">
-    <img src="https://img.shields.io/badge/LeetCode-Rup_24-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
