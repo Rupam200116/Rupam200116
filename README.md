@@ -104,14 +104,6 @@ I'm a **Software Development Engineer in DevOps** focused on building reliable, 
 </div>
 
 ---
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam200116&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%">
-</div>
-
-
----
 
 ## 🌐 Connect With Me
 
